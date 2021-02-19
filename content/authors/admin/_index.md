@@ -17,7 +17,7 @@ social:
     display:
       header: true
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/katdeane
   - icon: researchgate
     icon_pack: fab
