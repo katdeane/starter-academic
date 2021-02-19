@@ -23,7 +23,7 @@ abstract: Ketamine is commonly used as an anaesthetic agent and has more
   with the common hypothesis of cortical disinhibition via suppression of
   GABAergic interneurons.
 slides: ""
-url_pdf: JP279705.pdf
+url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -53,7 +53,7 @@ doi: https://doi.org/10.1113/JP279705
 featured: true
 tags: []
 projects: []
-image: graphicalabstractdeane2020.png
+image: 
   caption: Grand average current-source density profiles A–C, BF and BF −2 in
     awake (A), ketamine (B), and muscimol conditions (C) (n = 9, 11 and 11,
     respectively). Top, best frequency response. Bottom, response 2 octaves
