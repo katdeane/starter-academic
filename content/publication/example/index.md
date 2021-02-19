@@ -53,7 +53,7 @@ doi: https://doi.org/10.1113/JP279705
 featured: true
 tags: []
 projects: []
-image:
+image: graphicalabstractdeane2020.png
   caption: Grand average current-source density profiles A–C, BF and BF −2 in
     awake (A), ketamine (B), and muscimol conditions (C) (n = 9, 11 and 11,
     respectively). Top, best frequency response. Bottom, response 2 octaves
