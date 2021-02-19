@@ -2,7 +2,7 @@
 widget: about
 active: true
 author: admin
-widget_id: Bio
+widget_id: About me
 headless: true
 weight: 10
 title: About me
@@ -10,14 +10,12 @@ design:
   background:
     color: "#440816"
     text_color_light: true
-    image: /static/media/first_author_photo_deane.jpeg
+    image: /static/media/20201016_164754-2-.jpg
 ---
-Katrina is a small-time scientist in a world of chaos. She loves basic research as a function of improving our overall understanding of how the brain does what it do. 
+I am just a small-time scientist in a world of chaos. I love basic research as a function of improving our overall understanding of how the brain does it's thing. It feels to me like the 3 most exciting frontiers we have are space, the deep ocean, and the brain.
 
-In particular, Katrina is very interested in the mesoscopic scale: populations of neurons and interneurons working collectively to process and respond to the stimuli constantly around us. The balance of excitatory and inhibitory cells in the cortex and their individual synaptic variabilities cause the emergence of complex oscillatory behavior and very sophisticated filtering, sorting, categorizing, and what-have-you. 
+In particular, I'm very interested in the mesoscopic scale: that is, populations of neurons and interneurons working collectively to process and respond to the world around us. The balance of excitatory and inhibitory cells in the cortex and their individual synaptic variabilities cause the emergence of complex oscillatory behavior and very sophisticated filtering, sorting, categorizing, and so on. I would like to be a part of society's collective processing of those mechanisms.
 
-When Katrina isn't doing research, she plays D&D, plays piano, plays video games, and plays with her pet fancy rats, Pluto and Russel. She also runs but since that isn't "play", it didn't belong in the sentence before. 
+I advocate in my own circles of influence for discussion of mental health in academia—due especially to having Borderline Personality Disorder and having benefited from counseling, therapy, and support during diagnosis and up through present-day. I am committed to de-platforming and denouncing bigotry, especially in academia.
 
-Katrina advocates in her own circles for discussion of mental health in academia due especially to having Borderline Personality Disorder and having benefited from counseling, therapy, and support during diagnosis and up through present-day. She is also committed to speaking against bigotry. Zero tolerance. 
-
-Finally, Katrina is also a hobby artist. She tries to share her love of the brain and it's individual pieces through painting and digitizing neurons.
+When I'm not doing research, I play D&D—and even DM, play piano, play video games, and play with my pet fancy rats, Pluto and Russel. I also run but since that isn't "play", it didn't belong in the sentence before. And I'm a hobby artist, trying to spread my love of the brain and it's individual pieces through painting and digitizing neurons.
