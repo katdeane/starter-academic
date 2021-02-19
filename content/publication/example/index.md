@@ -23,7 +23,7 @@ abstract: Ketamine is commonly used as an anaesthetic agent and has more
   with the common hypothesis of cortical disinhibition via suppression of
   GABAergic interneurons.
 slides: ""
-url_pdf: ""
+url_pdf: JP279705.pdf
 publication_types:
   - "2"
 authors:
