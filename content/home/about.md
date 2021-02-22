@@ -8,9 +8,10 @@ weight: 10
 title: About me
 design:
   background:
-    color: "#440816"
+    color: ""
     text_color_light: true
     image: /static/media/20201016_164754-2-.jpg
+  columns: "2"
 ---
 I am just a small-time scientist in a world of chaos. I love basic research as a function of improving our overall understanding of how the brain does it's thing. It feels to me like the 3 most exciting frontiers we have are space, the deep ocean, and the brain.
 
