@@ -1,30 +1,43 @@
 ---
+# Display name
 title: Katrina Deane
+
+# Username (this should match the folder name)
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
 role: PhD Candidate of auditory systems neurophysiology
+
 avatar_filename: first_author_photo_deane.jpeg
-bio: I am just a small-time scientist in a world of chaos. I love basic research as a 
-  function of improving our overall understanding of how the brain does it's thing. It 
-  feels to me like the 3 most exciting frontiers we have are space, the deep ocean, and 
-  the brain. 
-  
-  In particular, I'm very interested in the mesoscopic scale. That is, populations of 
-  neurons and interneurons working collectively to process and respond to the world 
-  around us. The balance of excitatory and inhibitory cells in the cortex and their
-  individual synaptic variabilities cause the emergence of complex oscillatory behavior 
-  and very sophisticated filtering, sorting, categorizing, and so on. I would like to be 
-  a part of society's collective processing of those mechanisms.
-  
-  I advocate in my own circles of influence for discussion of mental health in academia
-  —due especially to having Borderline Personality Disorder and having benefited from
-  counseling, therapy, and support during diagnosis and up through present-day. I am
-  committed to de-platforming and denouncing bigotry, especially in academia.
-  
-  When I'm not doing research, I play D&D—and even DM, play piano, play video games,
-  and play with my pet fancy rats, Pluto and Russel. I also run but since that isn't "play",
-  it didn't belong in the sentence before. And I'm a hobby artist, trying to spread my
-  love of the brain and it's individual pieces through painting and digitizing neurons.
-interests: Research interests include auditory microcircuitry, synaptic variability,
-  neuronal oscillations, and population dynamics
+
+# Short bio (displayed in user profile at end of posts)
+bio: I own this place.
+
+interests:
+- Auditory neurophysiology
+- Oscillations
+- Science-inspired art
+
+education:
+  courses:
+  - course: PhD in Auditory Neuroscience
+    institution: Leibniz Institute for Neurobiology, Magdeburg
+    year: present
+  - course: M.Sc. in Integrative Neuroscience
+    institution: Otto von Guericke University, Magdeburg
+    year: 2018
+  - course: B.Sc. in Psychology
+    institution: Michigan Technological University, Houghton
+    year: 2014
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: twitter
     icon_pack: fab
@@ -54,6 +67,13 @@ education:
       institution: Michigan Technological University
       year: 2011
 email: ""
-superuser: true
+
 highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups: []
+
 ---
+
+Katrina Deane is a scientist.
