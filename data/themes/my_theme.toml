@@ -1,0 +1,23 @@
+  
+# Theme metadata
+name = "KatColors"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#440816"
+
+# Menu
+menu_primary = "#416B8B"
+menu_text = "#858999"
+menu_text_active = "#C8A7A7"
+menu_title = "#440816"
+
+# Home sections
+home_section_odd = "#440816"
+home_section_even = "433A51"
+
+[dark]
+  link = "#C8A7A7"
+  link_hover = "#858999"
