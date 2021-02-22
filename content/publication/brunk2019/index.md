@@ -25,7 +25,7 @@ title: Optogenetic stimulation of the VTA modulates a frequency-specific gain of
   thalamocortical inputs in infragranular layers of the auditory cortex
 subtitle: ""
 doi: https://doi.org/10.1038/s41598-019-56926-6
-featured: false
+featured: true
 tags: []
 projects: []
 image: []
