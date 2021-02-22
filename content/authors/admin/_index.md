@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD Candidate of auditory systems neurophysiology
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 # Short bio (displayed in user profile at end of posts)
 bio: I own this place.
