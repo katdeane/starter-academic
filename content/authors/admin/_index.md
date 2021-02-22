@@ -24,9 +24,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Auditory Neuroscience
+  - course: PhD in Auditory Neuroscience (ongoing)
     institution: Leibniz Institute for Neurobiology, Magdeburg
-    year: present
+    year: 2022
   - course: M.Sc. in Integrative Neuroscience
     institution: Otto von Guericke University, Magdeburg
     year: 2018
